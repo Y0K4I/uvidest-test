@@ -393,6 +393,7 @@ pre {
   height: 100%;
   background-color: rgb(0, 0, 0);
   background-color: rgba(0, 0, 0, 0.4);
+  overflow: auto;
 }
 
 .modal-content {
@@ -403,6 +404,7 @@ pre {
   transform: translate(-50%, -50%);
   width: 934px;
   height: 596px;
+  margin-top: 15px;
   display: flex;
 }
 .modal-content__close {

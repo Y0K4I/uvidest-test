@@ -282,7 +282,7 @@ pre {
   cursor: pointer;
   background-color: #000000;
 }
-@media screen and (max-width: 1440px) {
+@media screen and (max-width: 1439px) {
   .comments__box {
     justify-content: center;
   }

@@ -121,6 +121,12 @@ pre {
   padding-top: 92px;
   margin-bottom: 92px;
 }
+@media screen and (max-width: 1439px) {
+  .swiper {
+    padding-top: 35px;
+    margin-bottom: 75px;
+  }
+}
 
 .swiper-slide {
   width: auto !important;
